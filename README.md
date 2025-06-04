@@ -1,4 +1,4 @@
-# HyperesphereDiff: Harmonizing-Geometry-and-Uncertainty-Diffusion-with-Hyperspheres **[ICML 2025]**
+# HypereSphereDiff: Harmonizing-Geometry-and-Uncertainty-Diffusion-with-Hyperspheres **[ICML 2025]**
 
 ![collage_page-0001](https://github.com/IAB-IITJ/Harmonizing-Geometry-and-Uncertainty-Diffusion-with-Hyperspheres/blob/main/static/SAFARI_IMAGES/vis_abs.png)
 ## Abstract
